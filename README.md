@@ -14,7 +14,7 @@ Before running the application, it's recommended to create a virtual environment
 ```bash
 python3 -m venv venv
 ```
-Activate the virtual
+Activate the virtual environment 
 ```bash
 source venv/bin/activate
 ```
